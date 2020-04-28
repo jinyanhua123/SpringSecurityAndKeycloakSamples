@@ -11,4 +11,4 @@ Spring Security &amp; Spring Boot &amp; Keycloak のクライアントとリソ�
 
 - client_sso_demo
   - リソースサーバーと連携するクライアントアプリケーションのサンプルプログラム。
-  - WIP
+  - [KeycloakとSpringBoot/SecurityでOpenID Connect(SSO編)](https://qiita.com/kasa_le/items/d87bff758fa3fc44ca45)記事で作成したプログラムです。
