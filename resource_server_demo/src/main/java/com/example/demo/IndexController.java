@@ -8,6 +8,6 @@ public class IndexController {
 
     @GetMapping("/")
     public String index() {
-        return "Welcome to Sample API!!";
+        return "Welcome to Sample Page!!";
     }
 }
